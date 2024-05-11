@@ -12,6 +12,7 @@ body {
   margin-top: 50px;
   margin-bottom: 5px;
   margin-left: 200px;
+  outline: 5px solid white;
 }
 
 .myBox2 {
@@ -22,6 +23,7 @@ body {
   border: 15px darkgoldenrod solid;
   margin-bottom: 5px;
   margin-left: 200px;
+  outline: 5px solid white;
 }
 
 .myBox3 {
@@ -32,6 +34,7 @@ body {
   border: 15px darkgreen solid;
   margin-bottom: 150px;
   margin-left: 200px;
+  outline: 5px solid white;
 }
 
 .innerBox1 {
